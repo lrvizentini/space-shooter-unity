@@ -1,2 +1,9 @@
 # space-shooter-unity
-Study base on Unity SpaceShooter tutorial
+Study based on Unity SpaceShooter tutorial.
+
+
+## First journey
+
+## Secound Journey
+
+## A bit More
